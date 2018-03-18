@@ -8,19 +8,11 @@ Protobuf is used to serialize a message while sending data over network, this fi
 
 ## Installation
 
-Windows:
+Windows, OS X & Linux::
 
 ```sh
 Install requirements ($ pip3 install -r requirements.txt)
-```
-
-
-OS X & Linux:
-
-```sh
-Install requirements ($ pip3 install -r requirements.txt)
-Note: Change your file for protobuf install inside requirements.txt
-
+Note: In case if installation doesn't work check protobuf installation for your Operating system.
 ```
 
 
@@ -54,18 +46,11 @@ python server.py
 Output example: 
 
 ```sh
-
-Enter your message: hi
-
-
-###################################################################
 Enter your message: good afternoon # Client Request
 
 
 good afternoon, how you doing # Server Response
-
-
-###################################################################```
+```
 
 
 ## Meta
