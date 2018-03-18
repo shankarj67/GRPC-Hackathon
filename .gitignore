@@ -1,0 +1,27 @@
+*_pb2_grpc.py
+*_pb2.py
+__pycache__/
+
+
+
+*.pyc
+*.idea
+
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+#Json File
+*.json
