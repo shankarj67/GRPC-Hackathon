@@ -55,7 +55,7 @@ good afternoon, how you doing # Server Response
 
 ## Meta
 
-Your Name – [@Skhk634](https://twitter.com/Skhk634) – shankarj67@gmail.com
+Shankar Jha – [@Skhk634](https://twitter.com/Skhk634) – shankarj67@gmail.com
 
 
 Distributed under the mit license. See ``LICENSE`` for more information.
